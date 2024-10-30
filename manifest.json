@@ -1,5 +1,30 @@
 [
     {
+        "build": "24B2083",
+        "date": "2024-10-25T05:40:00",
+        "fileSize": 509861960,
+        "kernel_versions": {
+            "kernel": "Darwin Kernel Version 24.1.0: Thu Oct 10 20:59:57 PDT 2024; root:xnu-11215.41.3~3/RELEASE_X86_64",
+            "kernel.development": "Darwin Kernel Version 24.1.0: Thu Oct 10 21:24:29 PDT 2024; root:xnu_development-11215.41.3~3/DEVELOPMENT_X86_64",
+            "kernel.development.t6041": "Darwin Kernel Version 24.1.0: Thu Oct 10 21:28:13 PDT 2024; root:xnu_development-11215.41.3~3/DEVELOPMENT_ARM64_T6041",
+            "kernel.development.t8132": "Darwin Kernel Version 24.1.0: Thu Oct 10 21:27:41 PDT 2024; root:xnu_development-11215.41.3~3/DEVELOPMENT_ARM64_T8132",
+            "kernel.development.vmapple": "Darwin Kernel Version 24.1.0: Thu Oct 10 21:27:33 PDT 2024; root:xnu_development-11215.41.3~3/DEVELOPMENT_ARM64_VMAPPLE",
+            "kernel.kasan": "Darwin Kernel Version 24.1.0: Thu Oct 10 21:16:03 PDT 2024; root:xnu_kasan-11215.41.3~3/KASAN_X86_64",
+            "kernel.kasan.t6041": "Darwin Kernel Version 24.1.0: Thu Oct 10 21:15:23 PDT 2024; root:xnu_kasan-11215.41.3~3/KASAN_ARM64_T6041",
+            "kernel.kasan.t8132": "Darwin Kernel Version 24.1.0: Thu Oct 10 21:15:19 PDT 2024; root:xnu_kasan-11215.41.3~3/KASAN_ARM64_T8132",
+            "kernel.kasan.vmapple": "Darwin Kernel Version 24.1.0: Thu Oct 10 21:14:00 PDT 2024; root:xnu_kasan-11215.41.3~3/KASAN_ARM64_VMAPPLE",
+            "kernel.release.t6041": "Darwin Kernel Version 24.1.0: Thu Oct 10 21:06:57 PDT 2024; root:xnu-11215.41.3~3/RELEASE_ARM64_T6041",
+            "kernel.release.t8132": "Darwin Kernel Version 24.1.0: Thu Oct 10 21:06:23 PDT 2024; root:xnu-11215.41.3~3/RELEASE_ARM64_T8132",
+            "kernel.release.vmapple": "Darwin Kernel Version 24.1.0: Thu Oct 10 21:06:28 PDT 2024; root:xnu-11215.41.3~3/RELEASE_ARM64_VMAPPLE"
+        },
+        "md5sum": "a9ae275fcdb0ea556924281181e93cfe",
+        "name": "Kernel Debug Kit 15.1 build 24B2083",
+        "seen": "2024-10-30T17:19:14Z",
+        "sha256sum": "9e489e810f33158d0373793846b7781711d0b0d512cb3ac2e7a8946898510c9c",
+        "url": "https://github.com/dortania/KdkSupportPkg/releases/download/24B2083/Kernel_Debug_Kit_15.1_build_24B2083.dmg",
+        "version": "15.1"
+    },
+    {
         "build": "24B83",
         "date": "2024-10-23T06:59:00",
         "fileSize": 800727203,
