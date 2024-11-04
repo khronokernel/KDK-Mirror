@@ -1214,7 +1214,7 @@
         "md5sum": "d859ce5f183322fcc2343d72878ff254",
         "name": "Kernel Debug Kit 14.4 build 23E214",
         "seen": "2024-03-07T22:37:57Z",
-        "sha256sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:b98080e6-501e-0008-2f71-2efb5a000000\nTime:2024-11-04T04:25:38.9975329Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Mon, 04 Nov 2024 04:25:39 GMT] - Expiry [Mon, 04 Nov 2024 04:55:39 GMT] - Current [Mon, 04 Nov 2024 04:25:38 GMT]</AuthenticationErrorDetail></Error>",
+        "sha256sum": "713548c55cabbc87fc9119944dee54356e2de9046936389b162568aeadf93fb6",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/23E214/Kernel_Debug_Kit_14.4_build_23E214.dmg",
         "version": "14.4"
     },
