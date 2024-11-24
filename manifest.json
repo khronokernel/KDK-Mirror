@@ -2672,7 +2672,7 @@
         "md5sum": "74721d47b5c7393d62344faa11a18789",
         "name": "Kernel Debug Kit 13.6.7 build 22G720",
         "seen": "2024-05-13T20:41:57Z",
-        "sha256sum": "06cbea0186933c608610f9766c175ce2a27f1679d36a45d36e125ee2f4e1bb69",
+        "sha256sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:79cc2b43-201e-005f-69b7-3e5569000000\nTime:2024-11-24T21:27:22.0001122Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Sun, 24 Nov 2024 21:27:22 GMT] - Expiry [Sun, 24 Nov 2024 21:57:22 GMT] - Current [Sun, 24 Nov 2024 21:27:21 GMT]</AuthenticationErrorDetail></Error>",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22G720/Kernel_Debug_Kit_13.6.7_build_22G720.dmg",
         "version": "13.6.7"
     },
@@ -3141,7 +3141,7 @@
             "kernel.release.t8112": "Darwin Kernel Version 22.6.0: Mon May  8 23:12:01 PDT 2023; root:xnu-8796.140.12.505.1~5/RELEASE_ARM64_T8112",
             "kernel.release.vmapple": "Darwin Kernel Version 22.6.0: Mon May  8 23:09:44 PDT 2023; root:xnu-8796.140.12.505.1~5/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "e91d730a379f9c8bb88ed034ceecd36e",
+        "md5sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:79cbccb8-201e-005f-2ab7-3e5569000000\nTime:2024-11-24T21:26:52.9992180Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Sun, 24 Nov 2024 21:26:53 GMT] - Expiry [Sun, 24 Nov 2024 21:56:53 GMT] - Current [Sun, 24 Nov 2024 21:26:52 GMT]</AuthenticationErrorDetail></Error>",
         "name": "Kernel Debug Kit 13.5 build 22G5027e",
         "seen": "2023-05-26T15:18:47Z",
         "sha256sum": "6f8105e4a6b21c8320d1e0993ad66498b8614bba60d484200c002339338bc082",
