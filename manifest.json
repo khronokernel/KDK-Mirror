@@ -1863,7 +1863,7 @@
         "md5sum": "d022d67439c7d9a4d891c2d59d447115",
         "name": "Kernel Debug Kit 14.3 build 23D5033f",
         "seen": "2023-12-14T21:16:28Z",
-        "sha256sum": "10b7b4246e4fa07b438c1e05168289080d28ba9b5ae4b3ba1e82ca000b98ebac",
+        "sha256sum": "\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html>\n  <head>\n    <title>503 backend read error</title>\n  </head>\n  <body>\n    <h1>Error 503 backend read error</h1>\n    <p>backend read error</p>\n    <h3>Error 54113</h3>\n    <p>Details: cache-pao-kpao1770038-PAO 1733827792 992687631</p>\n    <hr>\n    <p>Varnish cache server</p>\n  </body>\n</html>\n",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/23D5033f/Kernel_Debug_Kit_14.3_build_23D5033f.dmg",
         "version": "14.3"
     },
