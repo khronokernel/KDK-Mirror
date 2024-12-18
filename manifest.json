@@ -133,7 +133,7 @@
         "md5sum": "aaa44fc490ba28ebb552acfe338e0c40",
         "name": "Kernel Debug Kit 15.2 build 24C100",
         "seen": "2024-12-09T19:18:37Z",
-        "sha256sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:28b00071-401e-002b-2d39-516199000000\nTime:2024-12-18T10:43:46.9979327Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Wed, 18 Dec 2024 10:43:47 GMT] - Expiry [Wed, 18 Dec 2024 11:13:47 GMT] - Current [Wed, 18 Dec 2024 10:43:46 GMT]</AuthenticationErrorDetail></Error>",
+        "sha256sum": "f2f2f57bdadde2ff4c8abdaa36f7fcfc236e17829a289b5eeec289b6df43f769",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/24C100/Kernel_Debug_Kit_15.2_build_24C100.dmg",
         "version": "15.2"
     },
@@ -1952,7 +1952,7 @@
             "kernel.release.t8122": "Darwin Kernel Version 23.3.0: Tue Dec 19 20:58:46 PST 2023; root:xnu-10002.80.20.505.4~2/RELEASE_ARM64_T8122",
             "kernel.release.vmapple": "Darwin Kernel Version 23.3.0: Tue Dec 19 20:58:00 PST 2023; root:xnu-10002.80.20.505.4~2/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:04bd7b0d-201e-003d-7c39-51974e000000\nTime:2024-12-18T10:43:59.9962019Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Wed, 18 Dec 2024 10:44:00 GMT] - Expiry [Wed, 18 Dec 2024 11:14:00 GMT] - Current [Wed, 18 Dec 2024 10:43:59 GMT]</AuthenticationErrorDetail></Error>",
+        "md5sum": "f6efa9c92a5944b6c654a47ee7bdfcce",
         "name": "Kernel Debug Kit 14.3 build 23D5043d",
         "seen": "2023-12-29T03:17:56Z",
         "sha256sum": "d85e59815cd46111a1d4c8eb9f165494a14d09e5a7668b417daca679be0f68f7",
