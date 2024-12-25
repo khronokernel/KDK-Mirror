@@ -2692,7 +2692,7 @@
             "kernel.release.t8112": "Darwin Kernel Version 23.0.0: Fri Jun 30 17:48:57 PDT 2023; root:xnu-10002.0.168.505.3~1/RELEASE_ARM64_T8112",
             "kernel.release.vmapple": "Darwin Kernel Version 23.0.0: Fri Jun 30 17:49:19 PDT 2023; root:xnu-10002.0.168.505.3~1/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "98ef15083f431a45396e0a936b6e885b",
+        "md5sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:98eb0f0f-a01e-0051-1cd0-567cd9000000\nTime:2024-12-25T13:24:13.9975195Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Wed, 25 Dec 2024 13:24:14 GMT] - Expiry [Wed, 25 Dec 2024 13:54:14 GMT] - Current [Wed, 25 Dec 2024 13:24:13 GMT]</AuthenticationErrorDetail></Error>",
         "name": "Kernel Debug Kit 14.0 build 23A5286g",
         "seen": "2023-07-05T18:20:26Z",
         "sha256sum": "dec3b411104c7848e2be19f8cb69e4f135aca79cde33bcb2d2c016fef1ae7825",
@@ -2794,7 +2794,7 @@
         "md5sum": "a8d73a9032c06d02f2702e3619441883",
         "name": "Kernel Debug Kit 13.7.1 build 22H221",
         "seen": "2024-10-28T18:05:00Z",
-        "sha256sum": "cf359862b346ef7c8989a2ea037d682206cca4f4a35cb17635d916c7c3835cbc",
+        "sha256sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:0c09662a-001e-0067-10d0-56f1a9000000\nTime:2024-12-25T13:24:14.9982983Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Wed, 25 Dec 2024 13:24:15 GMT] - Expiry [Wed, 25 Dec 2024 13:54:15 GMT] - Current [Wed, 25 Dec 2024 13:24:14 GMT]</AuthenticationErrorDetail></Error>",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22H221/Kernel_Debug_Kit_13.7.1_build_22H221.dmg",
         "version": "13.7.1"
     },
