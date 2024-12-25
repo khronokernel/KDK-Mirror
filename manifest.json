@@ -3371,7 +3371,7 @@
         "md5sum": "33aa283a8cc49dc3d9d308e95d08f9ce",
         "name": "Kernel Debug Kit 13.5 build 22G5038dKernel Debug Kit 13.5 build 22G5038d",
         "seen": "2023-05-31T18:17:12Z",
-        "sha256sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:5c80191c-b01e-0072-5cfc-56e61a000000\nTime:2024-12-25T18:44:14.9968310Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Wed, 25 Dec 2024 18:44:15 GMT] - Expiry [Wed, 25 Dec 2024 19:14:15 GMT] - Current [Wed, 25 Dec 2024 18:44:14 GMT]</AuthenticationErrorDetail></Error>",
+        "sha256sum": "798cfd3e39af2f63435fdac6f203d273a0df7c6bd8ae3a6396c593ee7ac55b98",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22G5038d/Kernel_Debug_Kit_13.5_build_22G5038d.dmg",
         "version": "13.5"
     },
@@ -3588,7 +3588,7 @@
         "md5sum": "a03b28bf5b4290b3d2312bf356faf1b6",
         "name": "Kernel Debug Kit 13.4 build 22F5027f",
         "seen": "2023-03-29T18:42:18Z",
-        "sha256sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:82b15361-401e-0066-79fd-56ae75000000\nTime:2024-12-25T18:44:16.9931499Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Wed, 25 Dec 2024 18:44:17 GMT] - Expiry [Wed, 25 Dec 2024 19:14:17 GMT] - Current [Wed, 25 Dec 2024 18:44:16 GMT]</AuthenticationErrorDetail></Error>",
+        "sha256sum": "0cea427fead8808da09ad500bf4f42e37d1d04be47bd30bc17b6ab017de906c6",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22F5027f/Kernel_Debug_Kit_13.4_build_22F5027f.dmg",
         "version": "13.4"
     },
