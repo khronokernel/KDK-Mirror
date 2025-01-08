@@ -998,7 +998,7 @@
             "kernel.release.t8122": "Darwin Kernel Version 24.0.0: Mon Jul  1 21:55:30 PDT 2024; root:xnu-11215.0.132.501.1~1/RELEASE_ARM64_T8122",
             "kernel.release.vmapple": "Darwin Kernel Version 24.0.0: Mon Jul  1 21:54:25 PDT 2024; root:xnu-11215.0.132.501.1~1/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:036914d0-301e-0043-15ea-610709000000\nTime:2025-01-08T16:26:50.9981391Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Wed, 08 Jan 2025 16:26:51 GMT] - Expiry [Wed, 08 Jan 2025 16:56:51 GMT] - Current [Wed, 08 Jan 2025 16:26:50 GMT]</AuthenticationErrorDetail></Error>",
+        "md5sum": "5080e9f9c90c3fa8091a03f79c5e29d1",
         "name": "Kernel Debug Kit 15.0 build 24A5289h",
         "seen": "2024-07-15T18:25:27Z",
         "sha256sum": "d680923ccdf309a22d64b6b84f3cfb8f64c9f706f02123b72c220dfcb66dd6eb",
@@ -1438,7 +1438,7 @@
             "kernel.release.t8122": "Darwin Kernel Version 23.6.0: Tue Jun 11 21:04:13 PDT 2024; root:xnu-10063.140.28.501.1~1/RELEASE_ARM64_T8122",
             "kernel.release.vmapple": "Darwin Kernel Version 23.6.0: Tue Jun 11 21:03:43 PDT 2024; root:xnu-10063.140.28.501.1~1/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:0c241fe5-b01e-003f-63ea-6129f6000000\nTime:2025-01-08T16:26:53.9988231Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Wed, 08 Jan 2025 16:26:54 GMT] - Expiry [Wed, 08 Jan 2025 16:56:54 GMT] - Current [Wed, 08 Jan 2025 16:26:53 GMT]</AuthenticationErrorDetail></Error>",
+        "md5sum": "60d73ac69bd0ef495c63cdd5fe7879ac",
         "name": "Kernel Debug Kit 14.6 build 23G5052d",
         "seen": "2024-06-17T18:24:50Z",
         "sha256sum": "a1cdc016bcb749c356255514e4e05c514bb4a58dcccf33ec173e46021b52638e",
