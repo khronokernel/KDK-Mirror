@@ -687,7 +687,7 @@
     },
     {
         "build": "24A348",
-        "date": "9999-01-01T00:00:00",
+        "date": "2025-01-10T20:26:00",
         "fileSize": 799788474,
         "kernel_versions": {
             "kernel": "Darwin Kernel Version 24.0.0: Tue Sep 24 23:36:30 PDT 2024; root:xnu-11215.1.12~1/RELEASE_X86_64",
@@ -727,7 +727,7 @@
     },
     {
         "build": "24A335",
-        "date": "9999-01-01T00:00:00",
+        "date": "2025-01-10T20:31:00",
         "fileSize": 799732075,
         "kernel_versions": {
             "kernel": "Darwin Kernel Version 24.0.0: Mon Aug 12 20:54:30 PDT 2024; root:xnu-11215.1.10~2/RELEASE_X86_64",
